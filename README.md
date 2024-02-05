@@ -47,7 +47,11 @@ ORDER OF TOPICS TO FOLLOW
 •	Updating a View
 
 •	Deleting rows from Views
+
 •	Dropping 
+
 •	Subquery
+
 •	CASE Statement
+
 •	joins
