@@ -21,6 +21,8 @@ FROM viewing WHERE viewdate BETWEEN '1-May-98' AND '31-May-98'
 SELECT COUNT(sno) AS count, SUM(salary) AS sum 
 FROM staff WHERE position = 'Manager'
 
+-- SUM() can also be used to count or add the no.of rows when the condition is defined inside the sum()
+SELECT SUM(salary > 50000) as avg_income from employee --this returns the no.of rows that has salary greater than 50000
 --Find the minimum,maximum and average staff salary
 SELECT MIN(salary) AS min , MAX(salary) AS max, AVG(salary) AS avg
 FROM staff;
