@@ -1,6 +1,6 @@
 ORDER OF TOPICS TO FOLLOW
 
-•	Creating Tables
+•	Creating Tables \n
 •	Dropping, Truncating & Altering Tables
 •	INSERT Command
 •	UPDATE Command
