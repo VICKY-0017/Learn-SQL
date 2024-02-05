@@ -1,0 +1,4 @@
+--cross join is called simplest join, which is also known as cross product or a cartesian product
+-- A cross join is the result of combining every row from the lest table with every row from the right table
+-- tables: courses,enrollment
+-- table1 has 3 rows and table2 has 2 rows,Cross join performs cartesian product where 1st row from table1 with other 2 rows with table2 ..and so om.finally the result will be 6 rows
